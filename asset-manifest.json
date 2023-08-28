@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/pet_project_2/static/css/main.239e086d.css",
+    "main.js": "/pet_project_2/static/js/main.37731053.js",
+    "static/js/787.266ea344.chunk.js": "/pet_project_2/static/js/787.266ea344.chunk.js",
+    "static/media/HUGO_BOSS_1.jpg": "/pet_project_2/static/media/HUGO_BOSS_1.ebb8b04a59857a96ab2f.jpg",
+    "static/media/CURREN_4.jpg": "/pet_project_2/static/media/CURREN_4.211255432a29e226655f.jpg",
+    "static/media/ROLEX_1.jpg": "/pet_project_2/static/media/ROLEX_1.37647ff30b184e0b13e2.jpg",
+    "static/media/ROLEX_2.jpg": "/pet_project_2/static/media/ROLEX_2.8c44cab53cee7b7913fd.jpg",
+    "static/media/CURREN_3.jpg": "/pet_project_2/static/media/CURREN_3.c3d8a99bb535a85c14f1.jpg",
+    "static/media/ROLEX_3.jpg": "/pet_project_2/static/media/ROLEX_3.a978593ac1d88586a15a.jpg",
+    "static/media/CURREN_5.jpg": "/pet_project_2/static/media/CURREN_5.286c7577f87294b82466.jpg",
+    "static/media/jpg": "/pet_project_2/static/media/16438713231395496.b3f825e98432d5d78f44.jpg",
+    "static/media/ROLEX_4.jpg": "/pet_project_2/static/media/ROLEX_4.c9fb846e6994fbde39cb.jpg",
+    "static/media/Tommy Hilfiger_1.jpg": "/pet_project_2/static/media/Tommy Hilfiger_1.0c1d99acc3207c2d0532.jpg",
+    "static/media/CURREN_1.jpg": "/pet_project_2/static/media/CURREN_1.a6593f0d996cac4fc25e.jpg",
+    "static/media/HUGO_BOSS_2.jpg": "/pet_project_2/static/media/HUGO_BOSS_2.30c4d2859b8bb6dfd256.jpg",
+    "static/media/CURREN_2.jpg": "/pet_project_2/static/media/CURREN_2.84c1385fd74677cdf6ae.jpg",
+    "index.html": "/pet_project_2/index.html",
+    "main.239e086d.css.map": "/pet_project_2/static/css/main.239e086d.css.map",
+    "main.37731053.js.map": "/pet_project_2/static/js/main.37731053.js.map",
+    "787.266ea344.chunk.js.map": "/pet_project_2/static/js/787.266ea344.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.239e086d.css",
+    "static/js/main.37731053.js"
+  ]
+}
